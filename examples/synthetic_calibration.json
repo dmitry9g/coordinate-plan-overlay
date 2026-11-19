@@ -1,0 +1,13 @@
+{
+  "operation": "calibrate",
+  "tolerance_world_units": 0.05,
+  "controls": [
+    {"name": "C1", "world": [0, 0], "pixel": [52, 348]},
+    {"name": "C2", "world": [10, 0], "pixel": [402, 328]},
+    {"name": "C3", "world": [0, 10], "pixel": [82, 68]},
+    {"name": "C4", "world": [10, 10], "pixel": [432, 48]}
+  ],
+  "checkpoints": [
+    {"name": "H1", "world": [8, 7], "pixel": [353, 136]}
+  ]
+}

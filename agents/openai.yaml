@@ -1,0 +1,14 @@
+interface:
+  display_name: Coordinate Plan Overlay
+  short_description: Calibrate survey plans and plot accurate geometry
+  default_prompt: Use $coordinate-plan-overlay to calibrate my plan and draw the requested
+    lines.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

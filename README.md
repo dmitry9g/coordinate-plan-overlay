@@ -26,6 +26,8 @@ python -m unittest discover -s tests -v
 See the [synthetic example](examples/README.md) for the generated plan, overlay, and
 verification report. The deliberately bad fit is flagged as provisional.
 
+If this skill helped you finish a task, give this repo a ⭐ on GitHub. It helps me see what’s worth improving.
+
 ## What the checks do
 
 - Use fitted and withheld points to check the plan's scale, orientation, and alignment.
